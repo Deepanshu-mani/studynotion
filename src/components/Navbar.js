@@ -18,7 +18,7 @@ const Navbar = (props) => {
         <nav>
             <ul className='text-richblack-100 flex gap-x-6'>
                 <li>
-                    <Link to="/">Home is </Link>
+                    <Link to="/">Home</Link>
                 </li>
                 <li>
                     <Link to="/">About</Link>
